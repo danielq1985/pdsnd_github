@@ -1,7 +1,6 @@
 ### February 12, 2020
 
-
-### Python Bike Share Analytic's roject
+### Python Bike Share Analytic's project
 
 ### Description
 This project is an interactive python-based program that analyzes various aspects of the bike share company.
